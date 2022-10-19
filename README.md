@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DukeOfWellington1815
+- 👀 I’m interested in History
+- 🌱 I’m currently learning Java
